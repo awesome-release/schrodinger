@@ -1,1 +1,1 @@
-The cat is ![in a box](cat.jpg)
+The cat is ![dead](cat.png)
